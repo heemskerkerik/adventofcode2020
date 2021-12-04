@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsharp01", "fsharp01\fsharp01.fsproj", "{5D928E25-40BF-4D3C-988A-BDAB3CAE1B03}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsharp02", "fsharp02\fsharp02.fsproj", "{D12A73CF-80F2-4C52-8FBB-3C36F3951BE4}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsharp03", "fsharp03\fsharp03.fsproj", "{BAF43C9F-2883-40AE-BEA9-5F1507E9ECC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D928E25-40BF-4D3C-988A-BDAB3CAE1B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D928E25-40BF-4D3C-988A-BDAB3CAE1B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D928E25-40BF-4D3C-988A-BDAB3CAE1B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D928E25-40BF-4D3C-988A-BDAB3CAE1B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D12A73CF-80F2-4C52-8FBB-3C36F3951BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D12A73CF-80F2-4C52-8FBB-3C36F3951BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D12A73CF-80F2-4C52-8FBB-3C36F3951BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D12A73CF-80F2-4C52-8FBB-3C36F3951BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF43C9F-2883-40AE-BEA9-5F1507E9ECC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF43C9F-2883-40AE-BEA9-5F1507E9ECC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF43C9F-2883-40AE-BEA9-5F1507E9ECC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF43C9F-2883-40AE-BEA9-5F1507E9ECC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
